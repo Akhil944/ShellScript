@@ -1,0 +1,12 @@
+Before modifying:
+It is a global variable
+and its another global variable
+this tells about the inside the function:
+It is a global variable
+and its another global variable
+After modifying:
+after modified
+and its another global variable
+this tells about the inside the function:
+after modified
+and its another global variable

@@ -1,0 +1,7 @@
+Enter number 1: 78
+Enter number 2: 87          
+78 is not greater than 87
+
+Enter number 1: 87
+Enter number 2: 78
+87 > 78
