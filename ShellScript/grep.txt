@@ -1,0 +1,5 @@
+Find the file you want to search the word in?
+globalvar.txt         
+Enter the word you want to find.
+modifying
+Before modifying:
